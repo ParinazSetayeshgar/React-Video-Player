@@ -21,8 +21,8 @@ This video player has following features:
 
 Observer pattern is used for designing the architecture & project logic is managed by PlayerService class.
 
-#For runnig the project:
+# For-runnig:
 
-after cloning run npm install. By npm run start command you can run the project on your localhost.
+after cloning, run npm install in terminal. By (npm run start) command you can run the project on your localhost.
 
 Also you can mutate App component videoList state to have your desired playlist.
